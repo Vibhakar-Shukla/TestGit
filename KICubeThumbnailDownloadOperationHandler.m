@@ -117,4 +117,7 @@
 -(void)method2
 {}
 
+-(void)method3
+{}
+
 @end
